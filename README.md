@@ -13,3 +13,5 @@ Duration - 1 Month ( March-2023 )
 3. You can use R, Python, SAS Enterprise Miner or any other tool 
 4. Data can be found at http://bit.ly/w-data
 5. What will be predicted score if a student studies for 9.25 hrs/ day? 
+
+### Task 2:- Prediction using Unsupervised ML
